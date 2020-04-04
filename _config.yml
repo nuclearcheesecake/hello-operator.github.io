@@ -3,5 +3,5 @@ theme: jekyll-theme-minimal
 title: Hello, operator
 description: A system for billing and analytics of telecommunications service providers
 
-logo: /HOLogo.png
+logo: "/HOLogo.png"
 show_downloads: true
