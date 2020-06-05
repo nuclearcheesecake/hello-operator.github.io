@@ -14,7 +14,7 @@ Nullam dapibus, augue quis aliquam faucibus, orci odio porttitor libero, in vulp
 
 Cras vitae viverra purus. Aliquam vehicula nisi ligula, sit amet tincidunt dui pellentesque sit amet. 
 
-\[Images of light vs dark mode of login screens\]
+![](logo.gif)
 
 Duis vel vulputate quam. Fusce porttitor bibendum feugiat. Curabitur fermentum gravida bibendum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc vestibulum elit vitae libero sodales, ut fermentum tellus vulputate. Ut consectetur erat quis posuere fermentum. Maecenas ullamcorper ipsum sit amet tellus aliquet, blandit pharetra massa lobortis. Sed sapien velit, euismod ac erat sit amet, ultricies mollis arcu. Praesent et enim sit amet risus fringilla rhoncus. Mauris odio ex, finibus sed euismod auctor, gravida et magna.
 
