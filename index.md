@@ -1,5 +1,5 @@
- <span style="font-family:Monaco; font-size:2em;"> **Hello, World!** </span> <br>
- <span style="font-family:Monaco; font-size:2em;"> **Hello, Operator!** </span> 
+ <span style="font-family:Courier; font-size:2em;"> **Hello, World!** </span> <br>
+ <span style="font-family:Courier; font-size:2em;"> **Hello, Operator!** </span> 
 
 <span style="font-family:Helvetica; font-size:1em;"> Data is messy. But it doesn't have to be. Introducing the system that presents your data in a way that will allow you to make interpretations in real-time. You don't need to search through your databases every day to monitor client behaviour. Instead, you can say hello to organised data.</span> <br>
 <br>
@@ -35,4 +35,4 @@ src="https://www.youtube.com/embed/ZOkvADbDS60">
  <span style="font-family:Courier; font-size:1em;"> **Ad meloria,** </span> <br>
   <span style="font-family:Courier; font-size:1em;"> **The FourSAWS Enterprises Team** </span> 
 
-<img src="https://github.com/nuclearcheesecake/hello-operator.github.io/FSELogo.png" class="center">
+<img src="FSELogo.png" class="center">
