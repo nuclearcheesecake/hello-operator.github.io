@@ -29,10 +29,13 @@ src="https://www.youtube.com/embed/ZOkvADbDS60">
 <br>
  <span style="font-family:Helvetica; font-size:2em;"> **Download instructions** </span> 
 
-<span style="font-family:Helvetica; font-size:1em;">At the moment, <span> *Hello, Operator* </span> is undergoing its first prototype. A beta version is planned to be releaased later in 2020, with a stable version following suite.</span>
+<span style="font-family:Helvetica; font-size:1em;">At the moment, <span> *Hello, Operator* </span> is undergoing its first prototype. A beta version is planned to be released later in 2020, with a stable version following suite.</span>
 <br>
 
+ <span style="font-family:Helvetica; font-size:2em;"> **Thank you for your support** </span> 
+ <span style="font-family:Helvetica; font-size:1em;">To everyone who has supported our team during the continual development of this system, thank you! It takes a village to raise a telecommunications project.</span>
+ <br>
  <span style="font-family:Courier; font-size:1em;"> **Ad meloria,** </span> <br>
   <span style="font-family:Courier; font-size:1em;"> **The FourSAWS Enterprises Team** </span> 
 
-<img src="FSELogo.png" class="center">
+<img src="FSELogo.png" class="center" style="width:250px;height:250px;">
