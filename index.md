@@ -2,6 +2,7 @@
  <span style="font-family:Courier; font-size:2em;"> **Hello, Operator!** </span> 
 
 Data is messy. But it doesn't have to be. Introducing the system that presents your data in a way that will allow you to make interpretations in real-time. You don't need to search through your databases every day to monitor client behaviour. Instead, you can say hello to organised data.<br>
+<br>
 You can say hello to your new billing system...
 
 <iframe width="420" height="315"
@@ -14,9 +15,9 @@ src="https://www.youtube.com/embed/ZOkvADbDS60">
 - Monthly billing after standard rates specified
 - Automatic report generation for clients
 - Visual owner dashboard, with insightful analytics
-- Graphing peak times that clients use your services
-- Displaying which parts of your services the clients use the most
-- Identifying risk clients to save your business from harm
+- Graph of peak times that clients use your services
+- Displays which parts of your services the clients use the most
+- Identifies risk clients to save your business from harm
 
  <span style="font-family:Courier; font-size:2em;"> **Introducing dark mode!** </span> 
 
