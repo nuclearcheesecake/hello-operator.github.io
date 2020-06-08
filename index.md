@@ -34,4 +34,4 @@ At the moment, <span> *Hello, Operator* </span> is undergoing its first prototyp
  <span style="font-family:Courier; font-size:1em;"> **Ad meloria,** </span> <br>
   <span style="font-family:Courier; font-size:1em;"> **The FourSAWS Enterprises Team** </span> 
 
-![Image](FSElogo.png)
+![Image](FSELogo.png)
