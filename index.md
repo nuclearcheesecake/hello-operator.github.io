@@ -32,8 +32,10 @@ src="https://www.youtube.com/embed/ZOkvADbDS60">
 <span style="font-family:Helvetica; font-size:1em;">At the moment, <span> *Hello, Operator* </span> is undergoing its first prototype. A beta version is planned to be released later in 2020, with a stable version following suite.</span>
 <br>
 
- <span style="font-family:Helvetica; font-size:2em;"> **Thank you for your support** </span> 
+ <span style="font-family:Helvetica; font-size:2em;"> **Thank you for your support** </span> <br>
+ 
  <span style="font-family:Helvetica; font-size:1em;">To everyone who has supported our team during the continual development of this system, thank you! It takes a village to raise a telecommunications project.</span>
+ <br>
  <br>
  <span style="font-family:Courier; font-size:1em;"> **Ad meloria,** </span> <br>
   <span style="font-family:Courier; font-size:1em;"> **The FourSAWS Enterprises Team** </span> 
